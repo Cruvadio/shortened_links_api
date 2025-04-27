@@ -1,0 +1,11 @@
+fastapi==0.115.6
+uvicorn==0.32.1
+pytest==8.3.4
+requests==2.32.3
+aiosqlite==0.21.0
+SQLAlchemy==2.0.36
+databases[aiosqlite]==0.9.0
+pydantic==2.10.3
+pydantic-settings==2.6.1
+alembic==1.14.0
+httpx==0.28.1
